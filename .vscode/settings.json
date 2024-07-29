@@ -1,5 +1,6 @@
 {
     "git.autoRepositoryDetection": "subFolders",
+    
     "python.languageServer": "Pylance",
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.diagnosticMode": "openFilesOnly",
@@ -14,7 +15,7 @@
     "python.analysis.packageIndexDepths": [
         {
             "name": "django",
-            "depth": 3,
+            "depth": 2,
             "includeAllSymbols": true
         }
     ],
